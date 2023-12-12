@@ -6,7 +6,7 @@ let routes = [
         meta: {
             title: 'Главная'
         }
-    }, 
+    },
 ]
 
 routes = routes.map(route => {

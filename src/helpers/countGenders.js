@@ -8,7 +8,7 @@
 const countGenders = async (users) => {
 
     /**
-     * При возврате объект gendersCount имеет такие поля:
+     * При возврате функции, объект gendersCount имеет такие поля:
      * @property {number} male - Количество мужчин.
      * @property {number} female - Количество женщин.
      * @property {number} unknown - Количество пользователей с неопределенным полом.

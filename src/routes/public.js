@@ -7,10 +7,10 @@ let routes = [
             title: 'Вход'
         }
     },
-    // {
-    //     path: '/:catchAll(.*)',
-    //     redirect: '/'
-    // },
+    {
+        path: '*',
+        redirect: '/'
+    },
 ]
 
 
