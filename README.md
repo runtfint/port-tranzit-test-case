@@ -1,24 +1,21 @@
-# test_case
+# ТЕСТОВОЕ ЗАДАНИЕ (VUE)
 
-## Project setup
+Цель задания: создать SPA приложение “Контакты” на Vue 2
+Полное ТЗ: https://scratched-vanadium-789.notion.site/web-Vue-47fbd65bf54340b7bdea8d8ce833f2b0
+
+## Запуск проекта
+
+### Установка зависимостей
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск проекта в режиме разработчика
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Сборка проекта
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
