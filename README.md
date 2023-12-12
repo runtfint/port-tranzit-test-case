@@ -5,6 +5,11 @@
 
 ## Запуск проекта
 
+### Клонирование проекта
+```
+git clone https://github.com/runtfint/port-tranzit-test-case.git
+```
+
 ### Установка зависимостей
 ```
 npm install
